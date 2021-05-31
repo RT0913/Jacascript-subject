@@ -1,0 +1,12 @@
+.timer-design {
+  font-size: 20px;
+}
+
+.button-design {
+  width: 50px;
+  height:  25px;
+  background-color: #ffcc88;
+  border-radius: 15%;
+  margin-top: 20px;
+  box-shadow: 1px 1px #ddd;
+}
